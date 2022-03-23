@@ -9,7 +9,7 @@ First, you will need to download Java, you can find it [here](https://www.oracle
 First let’s enable printing functions (like print, printf, etc.) by entering the following Jshell command:
 
 ```
-open PRINTING
+/open PRINTING
 ```
 
 At this point, we are ready to write the fizzbuzz function.
@@ -70,7 +70,7 @@ This line will print a new line at the end of each run of the for loop. You need
 
 Now to run your function, type “fizzbuzz()” into Jshell and you should see something like this:
 
-
+![ ](filename.png)
 
 To save your function, you could type it into notepad++, a programming space. You can download that [here](https://notepad-plus-plus.org/downloads/).
 
